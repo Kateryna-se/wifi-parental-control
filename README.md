@@ -39,7 +39,7 @@ python wifi_control.py
 
 📌 Screenshots:
 
-![Windows](screenshots/windows.png)
+![Windows](screenshots/Windows.png)
 
 👩‍💻 Developer:
 
