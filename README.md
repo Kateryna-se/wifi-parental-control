@@ -39,7 +39,7 @@ python wifi_control.py
 
 📌 Screenshots:
 
-Will be added after GitHub Pages publication.
+![Windows](screenshots/windows.png)
 
 👩‍💻 Developer:
 
