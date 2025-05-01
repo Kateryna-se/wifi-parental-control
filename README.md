@@ -47,7 +47,7 @@ Created by Kateryna – Junior Python Developer on her learning journey 🌟
 
 🌐 GitHub Pages Link:
 
-Coming soon...
+[Coming soon...](https://kateryna-se.github.io/wifi-parental-control/)
 
 Stay connected, stay in control! ☀️
 
