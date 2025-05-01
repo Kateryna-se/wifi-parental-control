@@ -1,1 +1,1 @@
-tk
+No external libraries required. Uses only Python standard libraries.
